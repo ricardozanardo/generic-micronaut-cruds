@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: genericmicronautcruds
+---
+testFramework: spek
+sourceLanguage: kotlin
